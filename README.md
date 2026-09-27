@@ -1,6 +1,6 @@
 # MOOC EPFLx MF201x Mécanique des fluides aide
 
-Le cours est actuellement archivé. Je l'ai commencé le 6 juin 2026 et terminé le 27 septembre 2026. Comme il y a les vidéos, les quizs (la plupart sans correction, pas de bouton Show answer), le polycopié de cours et des exercices corrigés sur le site de l'auteur, c'est faisable. Les démonstrations se trouvent pour la plupart dans le cours réf [1]. <br />
+Le cours est actuellement archivé. Je l'ai commencé le 6 juin 2026 et terminé le 27 septembre 2026. Comme il y a les vidéos, les quizs (la plupart sans correction, pas de bouton Show answer), le polycopié de cours et des exercices corrigés sur le site de l'auteur, c'est faisable. Les démonstrations se trouvent pour la plupart dans le cours réf [1]. Dommage qu'il n'y ait que 7 semaines de cours sur les 14.<br />
 <br />
 Bernoulli prononciation ber-nou-li
 
@@ -9,7 +9,7 @@ Cours similaire MOOC
     - LouvainX Hydraulique fluviale 1 - Écoulements à surface libre
     - LouvainX: Hydraulique fluviale 2 : Sédiments et morphologie fluviale
 - MOOC Introduction à la mécanique des fluides, IMT, FUN (à évaluer)
-- MOOC MIT 3 parties (à évaluer)
+- MOOC MIT 3 parties, semble plus complet. (à évaluer)
     - Advanced Fluid Mechanics 1: Fundamentals
     - Advanced Fluid Mechanics 2: The Navier-Stokes Equations for Viscous Flows
     - Advanced Fluid Mechanics 3: Potential Flows & Boundary Layers
