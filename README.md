@@ -19,9 +19,9 @@ Exercice 7.1 similaire Exercice 1 Siphon Partie 4 Chapitre 2 Dynamique locale de
 
 
 Références
-[1] Exercices & Problèmes Physique 2ème année MP-PC-PSI-PT, H Prépa, Hachette Supérieur, 2005
-[2] Cours, Mécanique des fluides Introduction à l’hydraulique pour les ingénieurs civils, site du professeur C. Ancey fichier cours-meca.pdf
-[3] Cahier d'exercices, Mécanique des fluides Introduction à l’hydraulique pour les ingénieurs civil, site du professeur C. Ancey fichier exercices-meca.pdf
+* [1] Exercices & Problèmes Physique 2ème année MP-PC-PSI-PT, H Prépa, Hachette Supérieur, 2005
+* [2] Cours, Mécanique des fluides Introduction à l’hydraulique pour les ingénieurs civils, site du professeur C. Ancey fichier cours-meca.pdf
+* [3] Cahier d'exercices, Mécanique des fluides Introduction à l’hydraulique pour les ingénieurs civil, site du professeur C. Ancey fichier exercices-meca.pdf
 
 
 
