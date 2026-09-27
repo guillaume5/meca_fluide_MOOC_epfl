@@ -6,12 +6,11 @@ Le cours est actuellement archivé. Je l'ai commencé le 6 juin 2026 et terminé
 
 - Pour des solutions aux exercices consultez le cahier d'exercices réf [3]
 Par exemple :
-Exercice 7.3 Pb 1 correction 5.1 Exercice 1: écoulement dans une conduite circulaire
-Exercice 7.3 Pb 2 correction 5.2 Exercice 2: canal à section triangulaire
+    - Exercice 7.3 Pb 1 correction 5.1 Exercice 1: écoulement dans une conduite circulaire
+    - Exercice 7.3 Pb 2 correction 5.2 Exercice 2: canal à section triangulaire
 
-
-Exercices similaires :
-Exercice 7.1 similaire Exercice 1 Siphon Partie 4 Chapitre 2 Dynamique locale des fluides parfaits réf [1]. Mieux présenté et plusieurs questions.
+- Exercices similaires :
+    - Exercice 7.1 similaire Exercice 1 Siphon Partie 4 Chapitre 2 Dynamique locale des fluides parfaits réf [1]. Mieux présenté et plusieurs questions.
 
 ## Proposition de réponse expérience quiz 7.5
 
