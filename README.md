@@ -15,6 +15,17 @@ Par exemple :
 ## Proposition de réponse expérience quiz 7.5
 
 - pour une URL valide pour l'expérience https://lhe.epfl.ch/bachelor.php puis cliquez sur "Expérience en direct"
+- Réponses proposées
+    - Q1 Super-critique
+    - Q2 8 mm
+    - Q3 Sous-critique
+    - Q4 8 mm (je n'ai pas vu différence h croissant décroissant)
+    - Q5  (?)
+    - Q6 y1 = 5 mm y2 = 15 mm
+    - Q7  $F_1 = \sqrt{\dfrac{1}{2}*\dfrac{y_2}{y_1} \left( \dfrac{y_2}{y_1}+1 \right)}$
+    - Q8 2.45
+    - Q9 2.3e-4 (valeur la plus proche)
+    - Q10 0.47
 
 
 Références :
