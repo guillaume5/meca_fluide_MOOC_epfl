@@ -1,6 +1,8 @@
 # MOOC EPFLx MF201x Mécanique des fluides
 
-Le cours est actuellement archivé. Je l'ai commencé le 6 juin 2026 et terminé le 27 septembre 2026. Comme il y a les vidéos, les quizs (la plupart sans correction, pas de bouton Show answer), le polycopié de cours et des exercices corrigés sur le site de l'auteur, c'est faisable. Les démonstrations se trouvent pour la plupart dans le cours réf [1].
+Le cours est actuellement archivé. Je l'ai commencé le 6 juin 2026 et terminé le 27 septembre 2026. Comme il y a les vidéos, les quizs (la plupart sans correction, pas de bouton Show answer), le polycopié de cours et des exercices corrigés sur le site de l'auteur, c'est faisable. Les démonstrations se trouvent pour la plupart dans le cours réf [1]. <br />
+<br />
+Bernoulli prononciation ber-nou-li
 
 ## Conseils
 
@@ -20,7 +22,7 @@ Par exemple :
     - Q2 8 mm
     - Q3 Sous-critique
     - Q4 8 mm (je n'ai pas vu différence h croissant décroissant)
-    - Q5  (?)
+    - Q5 Aux non linéarités des équations de Bernoulli (?, me fait penser aux courbes de remous où 2 solutions possibles)
     - Q6 y1 = 5 mm y2 = 15 mm
     - Q7  $F_1 = \sqrt{\dfrac{1}{2}*\dfrac{y_2}{y_1} \left( \dfrac{y_2}{y_1}+1 \right)}$
     - Q8 2.45
