@@ -4,7 +4,7 @@ Le cours est actuellement archivé. Je l'ai commencé le 6 juin 2026 et terminé
 
 ## Conseils
 
-- Pour des solutions aux exercices consultez le cahier d'exercices réf [2]
+- Pour des solutions aux exercices consultez le cahier d'exercices réf [2] <br />
 Par exemple :
     - Exercice 7.3 Pb 1 correction 5.1 Exercice 1: écoulement dans une conduite circulaire
     - Exercice 7.3 Pb 2 correction 5.2 Exercice 2: canal à section triangulaire
