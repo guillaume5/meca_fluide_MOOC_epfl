@@ -32,7 +32,7 @@ Par exemple :
     - Q2 8 mm
     - Q3 Sous-critique
     - Q4 8 mm (je n'ai pas vu différence h croissant décroissant)
-    - Q5 Aux non linéarités des équations de Bernoulli (?, me fait penser aux courbes de remous où 2 solutions possibles)
+    - Q5 Aux non-linéarités des équations de Bernoulli
     - Q6 y1 = 5 mm y2 = 15 mm
     - Q7  $F_1 = \sqrt{\dfrac{1}{2}*\dfrac{y_2}{y_1} \left( \dfrac{y_2}{y_1}+1 \right)}$
     - Q8 2.45
