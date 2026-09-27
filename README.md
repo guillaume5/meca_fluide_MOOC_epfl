@@ -1,6 +1,6 @@
 # MOOC EPFLx MF201x Mécanique des fluides
 
-Le cours est actuellement archivé. Je l'ai commencé le 6 juin 2026 et terminé le 27 septembre 2026. Comme il y a les vidéos, les quizs (la plupart sans correction, pas de bouton Show answer) et le cours sur le site de l'auteur, c'est faisable. Les démonstrations se trouvent pour la plupart dans le cours réf [2].
+Le cours est actuellement archivé. Je l'ai commencé le 6 juin 2026 et terminé le 27 septembre 2026. Comme il y a les vidéos, les quizs (la plupart sans correction, pas de bouton Show answer), le cours, des exercices corrigés sur le site de l'auteur, c'est faisable. Les démonstrations se trouvent pour la plupart dans le cours réf [2].
 
 ## Conseils
 
