@@ -4,6 +4,16 @@ Le cours est actuellement archivé. Je l'ai commencé le 6 juin 2026 et terminé
 <br />
 Bernoulli prononciation ber-nou-li
 
+Cours similaire MOOC
+- MOOC UC Louvain (contient une démonstration)
+    - LouvainX Hydraulique fluviale 1 - Écoulements à surface libre
+    - LouvainX: Hydraulique fluviale 2 : Sédiments et morphologie fluviale
+- MOOC Introduction à la mécanique des fluides, IMT, FUN (à évaluer)
+- MOOC MIT 3 parties (à évaluer)
+    - Advanced Fluid Mechanics 1: Fundamentals
+    - Advanced Fluid Mechanics 2: The Navier-Stokes Equations for Viscous Flows
+    - Advanced Fluid Mechanics 3: Potential Flows & Boundary Layers
+
 ## Conseils
 
 - Pour des solutions aux exercices consultez le cahier d'exercices réf [2] <br />
